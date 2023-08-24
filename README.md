@@ -1,5 +1,5 @@
 # Flight-fare-prediction-
-• Conducted a flight fare prediction task using 9 different machine learning models: Linear regression, Decision tree, Random forest, Gradient boosting, Bagging, Extra trees, K Neighbours, Ridge and Lasso regression.
+• Conducted a flight fare prediction task using 7 different machine learning models: Linear regression, Decision tree, Random forest, Extra trees, K Neighbours, Ridge and Lasso regression.
 
 • Trained and compared the performance of each model on a publicly available flight fare dataset from Kaggle.
 
